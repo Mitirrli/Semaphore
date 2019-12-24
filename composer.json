@@ -1,5 +1,5 @@
 {
-  "name": "mitirrli/Hshmop",
+  "name": "mitirrli/hshmop",
   "description": "基于shmop的共享内存扩展",
   "license": "MIT",
   "authors": [
