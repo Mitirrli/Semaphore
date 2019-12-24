@@ -1,6 +1,6 @@
 {
-  "name": "mitirrli/hshmop",
-  "description": "基于shmop的共享内存扩展",
+  "name": "mitirrli/hshm",
+  "description": "基于Semaphore的共享内存扩展",
   "license": "MIT",
   "authors": [
     {
@@ -13,7 +13,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Mitirrli\\Hshmop\\": "./src/"
+      "Mitirrli\\Shm\\": "./src/"
     }
   }
 }
