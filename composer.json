@@ -1,0 +1,19 @@
+{
+  "name": "mitirrli/Hshmop",
+  "description": "基于shmop的共享内存扩展",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "mitirrli",
+      "email": "512663808@qq.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "Mitirrli\\Hshmop\\": "./src/"
+    }
+  }
+}
